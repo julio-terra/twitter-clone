@@ -7,9 +7,10 @@ const Layouts: React.FC = () => {
   return (
     <Container>
       <Wrapper>
-        <MenuBar />
+        {/* <MenuBar />
         <Main />
-        <SideBar />
+        <SideBar /> */}
+        <Main />
       </Wrapper>
     </Container>
   )
