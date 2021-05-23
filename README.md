@@ -36,9 +36,9 @@ esse projeto foi desenvolvido com as seguintes tecnologias:
 - ✔️ react-sticky-box
 
 como usar:
-    <p>acesse: <a href="https://twitter-clone-julioterra.netlify.app/">https://twitter-clone-julioterra.netlify.app/<a></p>
+   acesse: <a href="https://twitter-clone-julioterra.netlify.app/">https://twitter-clone-julioterra.netlify.app/<a
     
-    <p>ou, digite os seguites comandos:</p>
+    ou, digite os seguites comandos:
    <br/>
   
    git clone git@github.com:julio-terra/twitter-clone.git
