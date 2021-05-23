@@ -39,6 +39,9 @@ como usar:
     acesse: <a href="https://twitter-clone-julioterra.netlify.app/">https://twitter-clone-julioterra.netlify.app/<a>
     
     ou, digite os seguites comandos:
+  
             git clone git@github.com:julio-terra/twitter-clone.git
+  
             cd twitter-clone
+  
             yarn start
