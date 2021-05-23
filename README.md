@@ -38,13 +38,13 @@ esse projeto foi desenvolvido com as seguintes tecnologias:
 como usar:
    acesse: <a href="https://twitter-clone-julioterra.netlify.app/">https://twitter-clone-julioterra.netlify.app/<a
     
-    ou, digite os seguites comandos:
+    #ou, digite os seguites comandos:
    <br/>
   
-   git clone git@github.com:julio-terra/twitter-clone.git
+   $git clone git@github.com:julio-terra/twitter-clone.git
    <br/>
   
-   cd twitter-clone
+   $cd twitter-clone
    <br/>
   
-   yarn start
+   $yarn start
