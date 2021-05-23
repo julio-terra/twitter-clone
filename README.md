@@ -10,10 +10,10 @@ Twitter-clone
   <img src="./github/desktop.gif" alt="demo-web">
   <hr />
   <h1>812x375(iphone-x)</h1>
-  <img src="./github/mobile.gif" alt="demo-web">
+  <img src="./github/mobile.gif" alt="demo-mobile">
     <hr />
-  <h1>812x375(iphone-x)</h1>
-  <img src="./github/mobile.gif" alt="demo-web">
+  <h1>500x720px</h1>
+  <img src="./github/500x720.gif" alt="demo-500x720px">
 </div>
 
 <hr />
