@@ -37,7 +37,7 @@ esse projeto foi desenvolvido com as seguintes tecnologias:
 
 como usar:
    acesse: <a href="https://twitter-clone-julioterra.netlify.app/">https://twitter-clone-julioterra.netlify.app/<a
-    
+   ```bash
    # ou, digite os seguites comandos:
    <br/>
   
@@ -47,4 +47,5 @@ como usar:
    $ cd twitter-clone
    <br/>
   
-   $yarn start
+   $ yarn start
+  ```
