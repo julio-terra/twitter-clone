@@ -39,12 +39,14 @@ como usar:
    acesse: <a href="https://twitter-clone-julioterra.netlify.app/">https://twitter-clone-julioterra.netlify.app/<a
    ```bash
    # ou, digite os seguites comandos:
-  
+                                                                                                                   
+   # Clone este repositório
+ 
    $ git clone git@github.com:julio-terra/twitter-clone.git
-    ```
-    ```bash                                                                                              
+                                                                                                                      
+   # vá para a pasta do projeto                                                                                 
    $ cd twitter-clone
-    ```
-  ```bash
+   
+   #inicie a aplicação                                                                                                                   
    $ yarn start
   ```
