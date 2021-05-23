@@ -11,6 +11,9 @@ Twitter-clone
   <hr />
   <h1>812x375(iphone-x)</h1>
   <img src="./github/mobile.gif" alt="demo-web">
+    <hr />
+  <h1>812x375(iphone-x)</h1>
+  <img src="./github/mobile.gif" alt="demo-web">
 </div>
 
 <hr />
