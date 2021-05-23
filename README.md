@@ -3,9 +3,10 @@
 Minha Carteira
 </h1>
 
-<p align="center">twitter clone make with Typescript and ReactJs</p>
+<p align="center">clone do Twitter feito com typescript e Reactjs</p>
 
 <div align="center" >
+  <h1>1280x720(desktop)</h1>
   <img src="./github/desktop.gif" alt="demo-web">
   <img src="./github/mobile.gif" alt="demo-web">
 </div>
