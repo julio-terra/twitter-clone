@@ -39,7 +39,7 @@ como usar:
     acesse: <a href="https://twitter-clone-julioterra.netlify.app/">https://twitter-clone-julioterra.netlify.app/<a>
     
     ou, digite os seguites comandos:
-        <hr/>
+    <hr/>
   
             git clone git@github.com:julio-terra/twitter-clone.git
    <hr/>
