@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-Minha Carteira
+Twitter-clone
 </h1>
 
 <p align="center">clone do Twitter feito com typescript e Reactjs</p>
@@ -8,6 +8,7 @@ Minha Carteira
 <div align="center" >
   <h1>1280x720(desktop)</h1>
   <img src="./github/desktop.gif" alt="demo-web">
+  <h1>812x375(iphone-x)</h1>
   <img src="./github/mobile.gif" alt="demo-web">
 </div>
 
