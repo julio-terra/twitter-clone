@@ -34,3 +34,8 @@ esse projeto foi desenvolvido com as seguintes tecnologias:
 
 como usar:
     acesse: https://twitter-clone-julioterra.netlify.app/
+    
+    ou, digite os seguites comandos:
+            git clone git@github.com:julio-terra/twitter-clone.git
+            cd twitter-clone
+            yarn start
