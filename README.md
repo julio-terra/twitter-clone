@@ -8,6 +8,7 @@ Twitter-clone
 <div align="center" >
   <h1>1280x720(desktop)</h1>
   <img src="./github/desktop.gif" alt="demo-web">
+  <hr />
   <h1>812x375(iphone-x)</h1>
   <img src="./github/mobile.gif" alt="demo-web">
 </div>
