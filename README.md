@@ -3,10 +3,10 @@
 Minha Carteira
 </h1>
 
-<p align="center">Application of a Corsair Marketplace, with some of its products, so that the user can add to the cart.</p>
+<p align="center">twitter clone make with Typescript and ReactJs</p>
 
 <div align="center" >
-  <img src="./github/dektop.gif" alt="demo-web">
+  <img src="./github/desktop.gif" alt="demo-web">
   <img src="./github/mobile.gif" alt="demo-web">
 </div>
 
