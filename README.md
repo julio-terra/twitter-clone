@@ -33,4 +33,4 @@ esse projeto foi desenvolvido com as seguintes tecnologias:
 - ✔️ react-sticky-box
 
 como usar:
-    
+    acesse: https://twitter-clone-julioterra.netlify.app/
