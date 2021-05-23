@@ -6,7 +6,7 @@ import GlobalStyles from './styles/GlobalStyles';
 function App() {
   return (
     <>
-    <Layouts></Layouts>
+    <Layouts />
     <GlobalStyles />
     </>
   );
